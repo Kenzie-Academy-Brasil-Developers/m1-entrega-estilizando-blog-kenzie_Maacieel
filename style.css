@@ -2,7 +2,7 @@
 
 h1{
     font-size: 30px;
-    color:royalblue;
+    color: blue;
     font-weight: bold;
     text-align: center;
     padding: 20px;
@@ -13,6 +13,7 @@ h2{
     text-align: center;
     padding: 5px;
     font-weight: bold;
+
 }
 
 h4{
