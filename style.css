@@ -29,6 +29,7 @@ body {
     padding: 100px;
     box-sizing: border-box;
     background-color:skyblue;
+    
 }
 
 div{
@@ -54,7 +55,6 @@ form{
     
     text-align: center;
     font-weight: bold;
-
     
 }
 
@@ -70,6 +70,14 @@ a{
     color: blue; 
 }
 
+input{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    padding: 5px 10px;
+    margin-left: 5px;
+    border-radius: 15px;
+}
 
 
 
